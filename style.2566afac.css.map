@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,cACE,aACF,CAEA,gBACE,kBACF,CAEA,gBACE,kBACF","file":"style.2566afac.css","sourceRoot":"../src","sourcesContent":[".displayBlock {\n  display: block;\n}\n\n.verticalInputs {\n  margin-bottom: 10px;\n}\n\n.verticalGroups {\n  margin-bottom: 20px;\n}\n"]}
