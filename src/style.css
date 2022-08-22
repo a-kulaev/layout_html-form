@@ -1,1 +1,11 @@
-/* styles go here */
+.displayBlock {
+  display: block;
+}
+
+.verticalInputs {
+  margin-bottom: 10px;
+}
+
+.verticalGroups {
+  margin-bottom: 20px;
+}
